@@ -75,6 +75,12 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     TouchGestures
 
+# uwuAOSP
+PRODUCT_PACKAGES += \
+    uwuSettingsExt \
+    LyricFetchExt \
+    uwuClock
+
 # Updater
 include vendor/custom/config/ota.mk
 

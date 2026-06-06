@@ -19,4 +19,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Whether or not we should show the option to show battery percentage -->
     <bool name="config_battery_percentage_setting_available">true</bool>
+
+    <!-- Packages granted notification listener access by default. -->
+    <string name="config_defaultListenerAccessPackages" translatable="false">cn.binbin323.statuslyricext</string>
 </resources>

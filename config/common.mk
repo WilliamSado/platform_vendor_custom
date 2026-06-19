@@ -79,7 +79,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     uwuSettingsExt \
     LyricFetchExt \
-    uwuClock
+    uwuClock \
+    uwuSystemUI
 
 # Updater
 include vendor/custom/config/ota.mk
